@@ -1,5 +1,5 @@
 # 🔥 About Me
-🌱 I’m currently learning Data Science,React,Angular.js,MERN Stack<br><br>💬 Ask me about React,JavaScript,DataVisulization,HTML,CSS,Springboot,Django<br><br>📫 reach me kskapil08@gmail.com
+🌱 I’m currently learning Data Science,React,Angular.js,MERN Stack<br><br>💬 Ask me about Machine learning, AI, React,JavaScript,DataVisulization,HTML,CSS,Springboot,Django<br><br>📫 reach me kskapil08@gmail.com
 
 
 ## 🌐 Socials:
